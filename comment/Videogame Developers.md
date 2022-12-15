@@ -1,6 +1,6 @@
 ---
 title: Videogame Developers
-caption: Video game developers, as employees are programmers and graphic designers. Today, game developers have a number of commercial and open source tools available for use to make games.   
+caption: Προκειμένου όμως νά έχουν έννοια οι όροι "προσομοίωση" και "εξομοίωση", σημαντικό ρόλο έχουν οι δημιουργοί βιντεοπαιχνιδιών, οι οποίοι, κατά βάση, είναι προγραμματιστές και γραφίστες. Διαθέτουν μια σειρά από εμπορικά και ανοιχτού κώδικα εργαλεία διαθέσιμα για χρήση για την κατασκευή παιχνιδιών.   
 student: 'Konstantina Iliopoulou'
 studentid: 'Π2018070'
 ---
